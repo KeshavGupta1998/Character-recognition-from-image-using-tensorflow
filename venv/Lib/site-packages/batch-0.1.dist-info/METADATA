@@ -1,0 +1,15 @@
+Metadata-Version: 2.0
+Name: batch
+Version: 0.1
+Summary: Batch script (Windows CMD) lexer
+Home-page: https://github.com/moomoohk/batch.py
+Author: Meshulam Silk
+Author-email: moomoohk@ymail.com
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: ply
+Requires-Dist: recordtype
+
+UNKNOWN
+
+
