@@ -1,1 +1,0 @@
-# Character-recognition-from-image-using-tensorflow
